@@ -29,9 +29,6 @@ cd ETS-interactive-route-plotter
 - **Python 3**: Primary programming language.
 - **graphics.py**: Library for creating GUI elements.
 - **Pickle**: For object serialization and persistence.
-
-  Other topics and functions implemented in the program:
-
 - Text/mutability
 - File input
 - Lists
