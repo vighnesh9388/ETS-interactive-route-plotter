@@ -18,7 +18,7 @@ cd ETS-interactive-route-plotter
 
 ## Features
 
-- Load transit data from GTFS files.
+- Load transit data from [GTFS](https://github.com/google/transit) files.
 - Text-based querying of shape IDs and route data.
 - GUI for visually exploring bus routes and stops.
 - Error handling for file operations and user input.
