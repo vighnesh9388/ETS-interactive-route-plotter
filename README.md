@@ -39,6 +39,7 @@ cd ETS-interactive-route-plotter
 
 ## Technologies/Features To Add/Improve
 
-- Improve code/formatting/time complexity
-- Improve GUI
-- Implement feature that occasionally pulls, formats into parsable data and updates the GTFS files to the latest version (current data is from 2016).
+- Optimize code for better performance and readability.
+- Enhance the GUI for a more user-friendly experience.
+- Implement a feature to automatically fetch, format, and update the GTFS files to the latest version periodically (current data is from 2016).
+- Deploy the application to a fully functional website.
