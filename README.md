@@ -37,4 +37,8 @@ cd ETS-interactive-route-plotter
 - Dictionaries
 - Algorithms
 
+## Technologies/Features To Add/Improve
 
+- Improve code/formatting/time complexity
+- Improve GUI
+- Implement feature that occasionally pulls, formats into parsable data and updates the GTFS files to the latest version (current data is from 2016).
