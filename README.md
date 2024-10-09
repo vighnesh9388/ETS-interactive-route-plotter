@@ -2,6 +2,7 @@
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Edmonton_Transit_System_logo_with_text.svg/474px-Edmonton_Transit_System_logo_with_text.svg.png">
 </p>
+
 This **Python** project is designed to parse and interact with **Edmonton Transit Service (ETS)** data available from the [**City of Edmonton Open Data Catalogue**](https://data.edmonton.ca/), facilitating both command-line and graphical user interfaces for exploring transit routes and stops. The project is structured around several milestones, each adding functionality ranging from basic data handling in Python to advanced GUI operations.
 
 ## Getting Started
