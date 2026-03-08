@@ -1,6 +1,6 @@
 # Edmonton Transit System (ETS) Bus Route Plotter
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Edmonton_Transit_System_logo.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Edmonton_Transit_System_logo_with_text.svg"> 
 </p>
 
 This **Python** project is designed to parse and interact with **Edmonton Transit Service (ETS)** data available from the [**City of Edmonton Open Data Catalogue**](https://data.edmonton.ca/), facilitating both command-line and graphical user interfaces for exploring transit routes and stops. The project is structured around several milestones, each adding functionality ranging from basic data handling in Python to advanced GUI operations.
